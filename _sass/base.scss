@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.bg-banner {
+  background-image: url("images/bgbanner.png");
+}
+
+article {
+  ul {
+    @apply my-2;
+
+    li {
+      list-style: inside;
+    }
+  }
+
+  h2 {
+    @apply font-bold text-lg mb-2 mt-3;
+  }
+
+  h3 {
+    @apply font-medium text-lg mb-1 mt-2;
+  }
+
+  br {
+    @apply hidden;
+  }
+}
