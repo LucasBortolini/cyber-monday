@@ -38,7 +38,7 @@ permalink: /anuncie
       <input type="required" name="advertisesource" value="prelaunch" />
     </div>
     <div class="flex justify-center pt-4">
-      <button type="submit" class="py-2 px-12 bg-gradient-to-r from-dark-red to-light-red text-white rounded-2xl py-2 hover:opacity-80">Enviar</button>
+      <button type="submit" class="py-2 px-12 bg-gradient-to-r from-green-100 to-green-300 text-white rounded-2xl py-2 hover:opacity-80">Enviar</button>
     </div>
   </form>
 </section>

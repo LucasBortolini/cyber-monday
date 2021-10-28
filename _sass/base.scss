@@ -13,7 +13,16 @@ input::placeholder {
 }
 
 .bg-banner {
-  background-image: url("images/bgbanner.png");
+  background-image: url("images/bgbanner.jpg");
+}
+
+.catbox a {
+  background-color: #1387A1;
+  color: white;
+}
+.catbox:hover a {
+  background-color: #e6e6e6;
+  color: #1387A1;
 }
 
 article {
