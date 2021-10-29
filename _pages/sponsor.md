@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anuncie no Black Friday
+title: Anuncie no Cyber Monday
 permalink: /anuncie
 
 ---
