@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saiba tudo sobre a Cyber Monday
-permalink: /blog/saiba-tudo-sobre-a-cyber-monday
+permalink: /blog/saiba-tudo-sobre-a-cyber-monday.html
 image: /assets/images/saibatudo.png
 description: A Cyber Monday é um evento de descontos exclusivamente online, ocorre na segunda-feira posterior ao Dia de Ação de Graças nos Estados Unidos. No Brasil os lojistas já estão aproveitando o evento para oferecer descontos durante toda a semana, na chamada Cyber Week.
 ---
