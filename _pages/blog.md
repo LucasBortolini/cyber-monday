@@ -2,7 +2,7 @@
 layout: black
 title: Postagens do blog
 permalink: /blog
-description: Tire as suas dúvidas e fique por dentro de todas as novidades da Black Friday 2021
+description: Tire as suas dúvidas e fique por dentro de todas as novidades da Cyber Monday 2021
 ---
 
 <div class="w-full">
