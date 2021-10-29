@@ -2,7 +2,7 @@
 layout: page
 title:  Perguntas Frequentes
 permalink: /perguntas-frequentes/
-description: Tire as suas dúvidas e fique por dentro de todas as novidades da Black Friday 2021
+description: Tire as suas dúvidas e fique por dentro de todas as novidades da Cyber Monday 2021
 ---
 
 A **Black Friday** está chegando! E mais uma vez, é hora de aproveitar ao máximo os melhores descontos do ano!
